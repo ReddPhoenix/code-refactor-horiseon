@@ -3,14 +3,13 @@
 ## Link
 Link to live site: [Code Refactor Horiseon](https://reddphoenix.github.io/code-refactor-horiseon/)
 
-## Screenshot of live website
-
-![Website Screenshot](https://github.com/ReddPhoenix/code-refactor-horiseon/blob/master/assets/images/live-website-screenshot.png)
-
-
 ## Project Overview
 
 Code is being refactored for the Horiseon homepage to improve accessiblity and corrected semantics. Improving accessibility for a website allows for a larger group of individuals to access the site through screen readers but also mobile devices and tablets. 
+
+## Screenshot of live website
+
+![Website Screenshot](https://github.com/ReddPhoenix/code-refactor-horiseon/blob/master/assets/images/live-website-screenshot.png)
 
 ## Contact Information
 
