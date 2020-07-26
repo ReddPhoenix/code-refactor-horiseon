@@ -5,7 +5,7 @@ Link to live site: [Code Refactor Horiseon](https://reddphoenix.github.io/code-r
 
 ## Screenshot of live website
 
-![Website Screenshot](homework\code-refactor-horiseon\assets\images\live-website-screenshot.png)
+![Website Screenshot](https://github.com/ReddPhoenix/code-refactor-horiseon/blob/master/assets/images/live-website-screenshot.png)
 
 
 ## Project Overview
